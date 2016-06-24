@@ -60,9 +60,6 @@ TEST_F(ParserTest , ifStatementError){
         SUCCEED();
     }
 }
-TEST_F(ParserTest , ifStatment){
-
-}
 
 
 
